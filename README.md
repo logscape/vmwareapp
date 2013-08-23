@@ -2,4 +2,6 @@
 
 Monitor VMWare ESX4,ESXi 5.0, ESXi 5.1 
 
+![](docs/images/apphome.png) 
+
 
